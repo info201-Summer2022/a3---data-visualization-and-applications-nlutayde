@@ -87,7 +87,7 @@ aapi_native_rate_plt <- ggplot(pop_adm_rate_df,
   xlim(0, 4000)+
   ylim(0, 20000)+
   ggtitle("Scatter Plot of AAPI and Native",
-          "Prison Admission Rates (PAR")+
+          "Prison Admission Rates (PAR)")+
   xlab("AAPI PAR")+
   ylab("Native American PAR")
 
