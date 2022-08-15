@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 # Observing American Prison Populations for each Race
 
@@ -46,5 +46,3 @@ The chart created is a scatter plot between the prison admission rates of AAPIs 
 The chart created is a U.S. map that shows the geographic distribution of the Black prison population on average for each state. This visual map shows geographic familiarity for American viewers who can quickly identify Black prison populations by region. The U.S. map also includes a color scale that shows as the shade gets darker, the higher the state average is for Black prison population. States that are gray filled have no observational data in the dataset. According to the map, we can see that among the darkest shaded regions are California, New York, New Jersey, and Florida.
 
 ![Map Chart](Map_chart.png)
-
-
